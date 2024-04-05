@@ -1,0 +1,20 @@
+{
+  "name": "version",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "cypress",
+    "tests"
+  ],
+  "author": "victor",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.2"
+  }
+}
